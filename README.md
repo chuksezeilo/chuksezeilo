@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chuksezeilo
-- 👀 I’m interested in Music,art, technology
+- 👀 I’m interested in Music, art, technology
 - 🌱 I’m currently learning wordpress plugin and theme, javascript, git and GitHub 
 - 💞️ I’m looking to collaborate on wordpress plugins and electronic proojects
 - 📫 How to reach me chuksezeilo@gmail.com
